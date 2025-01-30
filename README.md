@@ -18,3 +18,6 @@ Translation of the task into technical language:
 Data search, data processing, algorithm development and Telegram-bot programming and debugging.
 
 
+![image](https://github.com/user-attachments/assets/f7225028-1fe5-46d1-ab14-763d957badb8)
+![image](https://github.com/user-attachments/assets/e22e4458-52e2-4a70-990e-52238b8f1035)
+![image](https://github.com/user-attachments/assets/27103bad-c038-4371-9538-d48f93d00731)
